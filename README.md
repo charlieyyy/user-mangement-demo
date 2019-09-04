@@ -1,5 +1,5 @@
 # Project Name
-> chess
+> user-management-demo
 
 ## Table of contents
 * [General info](#general-info)
