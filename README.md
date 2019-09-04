@@ -4,21 +4,19 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
-* [Screenshots](#screenshots)
 * [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
+* [Testing](#testing)
+* [License](#license)
 * [Contact](#contact)
 
 ## General info
 This project builds a RESTful API that handles basic operations on class **User** and class **Article** using python, flask, mongoDB.
 
 ## Technologies
-flask == 1.0.2
-flask_restful == 0.3.6
-mongoengine == 0.11.0
-Flask-JWT >= 0.3.2
+* flask == 1.0.2
+* flask_restful == 0.3.6
+* mongoengine == 0.11.0
+* Flask-JWT >= 0.3.2
 
 
 ## Features
