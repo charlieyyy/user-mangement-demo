@@ -12,29 +12,24 @@
 * [Contact](#contact)
 
 ## General info
-The idea of this project is to build a GUI Desktop Applications about chess game using java spring.
+This project builds a RESTful API that handles basic operations on class **User** and class **Article** using python, flask, mongoDB.
 
 ## Technologies
-* jdk-9.0.4
-* hamcrest-core-1.3
-* junit-4.12
-
-## Setup
-clone the project to local using git, and then build the project. The starting phase should looks like the screenshot shown below.
-
-## Screenshots
-![Example screenshot](./assets/screenshot.png)
+flask == 1.0.2
+flask_restful == 0.3.6
+mongoengine == 0.11.0
+Flask-JWT >= 0.3.2
 
 
 ## Features
 List of features ready
-* Restart - restart the game
-* Forfeit - give up the game
-* Undo - undo the last move
+* User login authentication
+* User data management - get, put, post, delete
+* Article data management - get, put, post, delete
 
 
 ## Testing
-There is unit testing for each feature and class. Learn more about [junit testing](https://www.vogella.com/tutorials/JUnit/article.html)
+The unit testing of this project is done by [nose](https://pypi.org/project/nose/)
 ## License
 
 Distributed under the MIT License.
