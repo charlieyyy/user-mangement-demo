@@ -1,16 +1,13 @@
-# Project Name
-> user-management-demo
+# user-management-demo
+> This project builds a RESTful API that handles basic operations on class **User** and class **Article** using python, flask, mongoDB.
 
 ## Table of contents
-* [General info](#general-info)
 * [Technologies](#technologies)
 * [Features](#features)
 * [Testing](#testing)
 * [License](#license)
 * [Contact](#contact)
 
-## General info
-This project builds a RESTful API that handles basic operations on class **User** and class **Article** using python, flask, mongoDB.
 
 ## Technologies
 * flask == 1.0.2
